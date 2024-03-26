@@ -1,0 +1,1590 @@
+@media only screen and (max-width:1199px) {
+	.logo {
+    margin-top: 15px;
+}
+	.couple-img {
+    width: 150px;
+    height: 150px
+  }
+  
+  .about-couple {
+  	width: calc(100% - 130px);
+  }
+}
+
+@media only screen and (max-width:1100px) {
+  a.boxed-btn {
+    margin-top: 0
+  }
+  
+  
+  .about-text p {
+    line-height: 19px
+  }
+
+  .owl-nav div.owl-prev {
+    left: 30px
+  }
+
+  .owl-nav div.owl-next {
+    right: 30px
+  }
+
+  .breadcumb-height {
+    min-height: 333px
+  }
+
+  #our-skill:after {
+    width: 62.5%
+  }
+
+  .pfc-bg .col-sm-3:before {
+    left: 25px;
+    top: 25px
+  }
+
+  .our-team:hover .link {
+    left: 4px
+  }
+
+  #testimonial:after {
+    width: 64.5%
+  }
+
+  .blog-content {
+    width: 80%
+  }
+
+  .blog-col h4 {
+    margin-bottom: 0
+  }
+
+  .insta-info-list li {
+    width: 32%
+  }
+
+  .layered-b:before {
+    top: -4px
+  }
+
+  .layered-b:after {
+    bottom: -2px
+  }
+
+  section#our-story {
+    padding-top: 60px
+  }
+
+  .couple-img h4 {
+    padding: 76px 7px;
+    font-size: 22px
+  }
+
+  .about-couple {
+    top: 15px
+  }
+
+  .about-couple h3 {
+    /*margin-left: 0;*/
+    font-size: 21px
+  }
+
+  .cp-social ul {
+    padding-left: 0
+  }
+
+  .cp-detail {
+    padding: 30px
+  }
+
+  .cp-detail p {
+    line-height: 1.5;
+    font-size: 14px
+  }
+
+  .image-story:before {
+    left: 55px;
+    right: 55px
+  }
+
+  .event-img {
+    padding: 95px 55px
+  }
+
+  .event-img:before {
+    top: 15px
+  }
+
+  .event-stack {
+    padding: 20px
+  }
+
+  .important-people ul.nav.nav-tabs {
+    width: 35%
+  }
+
+  .team-img {
+    height: 220px;
+    width: 220px
+  }
+
+  .our-team:hover .link {
+    left: 0
+  }
+
+  .link ul li {
+    margin-bottom: 10px
+  }
+
+  .footer-widgets {
+    min-height: auto
+  }
+
+  .footer-note {
+    /*padding: 85px 0*/
+  }
+
+  .ft-about-content {
+    width: 100%
+  }
+}
+
+@media only screen and (max-width:991px) {
+  ul.slicknav_nav a i.fa-angle-right {
+    display: none
+  }
+
+  .single-slider {
+    height: 55vh
+  }
+  
+  .widget-rsvp {
+  	/*padding: 15px;*/
+  }
+
+  .table-cell {
+    padding: 0 10px
+  }
+
+  .navbar-default .navbar-header a.navbar-brand {
+    left: 0;
+    top: 25px
+  }
+
+  .navbar>.container .navbar-brand, .navbar>.container-fluid .navbar-brand {
+    margin-left: 0
+  }
+
+  .navbar .nav>li {
+    padding: 0 5px;
+    -webkit-transition: padding .4s ease-in-out;
+    -moz-transition: padding .4s ease-in-out;
+    transition: padding .4s ease-in-out
+  }
+
+  div #main-nav-collapse {
+    background: 0 0
+  }
+
+  nav.navbar.navbar-default.navbar-fixed-top {
+    padding: 5px 0
+  }
+
+  .navbar-default .navbar-nav>li>a {
+    text-align: center;
+    padding: 5px 2px
+  }
+
+  .navbar-default .navbar-toggle {
+    border-color: #fff
+  }
+
+  .navbar-default .navbar-toggle .icon-bar {
+    background-color: #fff
+  }
+
+  #main-nav-collapse ul.nav.navbar-nav.navbar-right {
+    margin: 20px 0
+  }
+
+  .slicknav_nav ul li a {
+    padding-left: 40px
+  }
+
+  .slicknav_nav a i.fa-angle-down {
+    display: none
+  }
+
+  .navbar-sticky-in .logo a {
+    display: block !important
+  }
+
+  .navbar-sticky-in .logo a.sticky-logo {
+    display: none !important
+  }
+
+  .breadcumb-height {
+    min-height: 255px
+  }
+
+  .col-lg-8.my-auto {
+    margin: 110px auto 0
+  }
+
+  .slider-title h1 {
+    font-size: 32px
+  }
+
+  .slider-title p {
+    font-size: 16px
+  }
+
+  a.btn.btn-normal {
+    margin-left: 10px;
+    padding: 9px 31px;
+    margin-top: 0
+  }
+
+  #wd-banner .banner_caption_text, #wd-banner.wd-slider-ot .banner_caption_text {
+    width: 70%
+  }
+  
+  #wd-banner .banner_caption_text h2 {
+  	font-size: 25px;
+  }
+
+  .section-title p {
+    font-size: 13px;
+    margin: 15px auto 40px
+  }
+
+  .about-text {
+    margin-top: 48px
+  }
+
+  .single-service-box {
+    text-align: center
+  }
+
+  .single-service-box i {
+    float: none;
+    margin-right: 0
+  }
+
+  a.boxed-btn {
+    margin-top: 6px;
+    margin-left: 0;
+    display: inline-block;
+    float: none
+  }
+
+  .pfc-bg .col-sm-3:before {
+    height: 160px;
+    width: 160px;
+    left: 18px;
+    top: 16px
+  }
+
+  .flat .plan li.plan-name {
+    font-size: 25px
+  }
+
+  .flat .plan li.plan-name p {
+    font-size: 11px
+  }
+
+  .plan-price h3 {
+    font-size: 25px
+  }
+
+  .flat .plan li {
+    padding-left: 35px
+  }
+
+  .info-bar ul li i {
+    margin-right: 2px
+  }
+
+  .info-bar ul li a {
+    font-size: 12px
+  }
+
+  .blog-col p {
+    font-size: 12px
+  }
+
+  .subscribe-area {
+    text-align: center;
+    padding-bottom: 15px;
+    margin-bottom: -27px;
+    width: 100%
+  }
+
+  .subscribe-area-title {
+    width: 53%;
+    padding: 0;
+    margin-left: -7px
+  }
+
+  .subscribe-area-title h2 {
+    margin-top: 10px
+  }
+
+  .subscribe-area-title p {
+    margin-left: -35px
+  }
+
+  .email-subscribe {
+    margin-top: 15px;
+    margin-left: 70px;
+    margin-right: 99px
+  }
+
+  .subscribe-area input[type=email] {
+    width: 30%
+  }
+
+  .subscribe-area .email-subscribe input[type=submit] {
+    padding: 7px 10px
+  }
+
+  .chart-text span {
+    font-size: 17px
+  }
+
+  .our-team {
+    margin-bottom: 30px
+  }
+
+  .widget-footer .widget-title::after {
+    width: 17%
+  }
+
+  .testimonial {
+    padding: 20px 20px 20px 0;
+    margin-bottom: 50px;
+    margin-left: 0
+  }
+
+  #testimonial:after {
+    width: 70.5%
+  }
+
+  .testimonial:after {
+    font-size: 25px;
+    left: 5px
+  }
+
+  .testimonial:before {
+    font-size: 25px;
+    right: 5px
+  }
+
+  .testimonial .pic {
+    left: 20%;
+    bottom: -75px
+  }
+
+  .testimonial .pic img {
+    width: 75%
+  }
+
+  .coundown-title {
+    font-size: 30px
+  }
+
+  .coundown-subtitle {
+    font-size: 16px;
+    line-height: 22px;
+    padding-bottom: 20px
+  }
+
+  .coundown_box {
+    width: 100px;
+    height: 100px
+  }
+
+  #our-skill:after {
+    width: 68.5%
+  }
+
+  .our-team .link a {
+    margin-bottom: 30px
+  }
+
+  .blog-content {
+    width: 100%;
+    bottom: -74%
+  }
+
+  .aboutus-inner .about-couple {
+    width: 70%
+  }
+
+  .act-counter {
+    padding: 0
+  }
+
+  .act-counter #demo {
+    font-size: 42px
+  }
+
+  .story-bg.section-padding {
+    padding: 0
+  }
+
+  .expand-story {
+    width: 100%;
+    /*padding: 0 20px 0 0*/
+  }
+
+  .image-story {
+    width: 100%;
+    margin: 50px auto 80px
+  }
+
+  .image-story:before {
+    left: 10px;
+    right: 10px
+  }
+  
+  .event-dates > .row {
+  	display: block;
+  }
+
+  .event-img {
+    display: none
+  }
+  
+  .event-stack {
+  	text-align: center;
+  }
+  
+  .event-title {
+  	margin-top: 10px;
+  }
+  
+  .event-stack p {
+  	font-size: 18px;
+  }
+  
+  .event-stack a,
+  .event-stack ul li{
+  	font-size: 16px;
+  }
+
+  .important-people ul.nav.nav-tabs {
+    width: 46%
+  }
+
+  .link ul li {
+    margin-bottom: -20px
+  }
+
+  .imp-people {
+    padding-top: 50px
+  }
+
+  .quote-img:before {
+    left: -100px;
+    top: -40px;
+    width: 240px;
+    height: 240px
+  }
+
+  .quote-img img {
+    left: 55px;
+    top: -5px;
+    height: 200px;
+    width: 200px
+  }
+
+  .quote-counter {
+    padding-left: 60px
+  }
+
+  .quote-counter p {
+    font-size: 20px;
+    margin: 0;
+    padding: 0
+  }
+
+  .quote-counter p:before {
+    left: 12%
+  }
+
+  .quote-counter p:after {
+    right: 3%;
+    bottom: 5px
+  }
+
+  .gallery-quote h2 {
+    top: 50px
+  }
+
+  .the-wishes .testimony-slide blockquote {
+    width: 80%
+  }
+
+  .ft-about-content {
+    /*width: 75%*/
+  }
+
+  .blog_sidebar_content .blog_main_post {
+    padding: 5px
+  }
+
+  #blog-list .blog-sidebar .bl-content .sidebar_lists li.widget {
+    padding: 0 5px
+  }
+
+  .blog-sidebar {
+    padding: 5px 0
+  }
+
+  .royalwedding_social_posts ul li {
+    margin: 5px
+  }
+
+  .blog-gridrightbar .blog_sidebar_content .blog_main_post {
+    padding: 10px
+  }
+
+  .footer-note:before {
+    /*left: 28.3%;*/
+    /*width: 45%*/
+  }
+
+  .our_store.related_store {
+    padding-bottom: 0
+  }
+
+  .quantity-buttons {
+    margin: 0
+  }
+
+  .single-product-summary button {
+    padding: 10px 26px 9px;
+    float: right
+  }
+
+  .aboutus-page #about-us {
+    padding-bottom: 70px
+  }
+
+  .g-registry-inner .owl-registry .owl-item img {
+    box-shadow: none
+  }
+}
+
+@media only screen and (max-width:767px) {
+  .table-cell {
+    padding: 0 10px
+  }
+
+  .navbar>.container .navbar-brand, .navbar>.container-fluid .navbar-brand {
+    margin-left: 0;
+    margin-top: 10px
+  }
+
+  .navbar-right {}
+
+  nav.navbar.navbar-default.navbar-fixed-top {
+    padding: 5px 0
+  }
+
+  .navbar-default .navbar-nav>li>a {
+    text-align: center
+  }
+
+  div#main-nav-collapse {
+    background: #333
+  }
+
+  .navbar-default .navbar-toggle {
+    border-color: #fff
+  }
+
+  .navbar-default .navbar-toggle .icon-bar {
+    background-color: #fff
+  }
+
+  .home-3 #inner-navigation .navbar {
+    margin-top: 0;
+    top: 0
+  }
+
+  .home-3 #inner-navigation .navbar.navbar-sticky-in {
+    margin-top: 0
+  }
+
+  .home-3 #wd-banner.wd-slider-ot .banner_caption_text {
+    top: 33%
+  }
+
+  .home-3 #wd-banner.wd-slider-ot .banner_caption_text h2 {
+    padding-top: 0
+  }
+
+  .col-lg-8.my-auto {
+    margin: 125px auto 0
+  }
+
+  .page-breadcumb h2 {
+    font-size: 35px
+  }
+
+  .slider-title h1 {
+    font-size: 24px
+  }
+
+  .slider-title p {
+    font-size: 16px
+  }
+
+  a.btn.btn-normal {
+    margin-left: 0;
+    padding: 8px 31px;
+    margin-top: 18px;
+    margin-right: 0
+  }
+
+  .top-head .top-contact, .top-bar-right {
+    width: 100%
+  }
+
+  .top-head .top-contact {
+    margin-bottom: 10px
+  }
+
+  .section-title p {
+    font-size: 13px;
+    margin: 15px auto 40px
+  }
+
+  .about-text {
+    margin-top: 48px
+  }
+
+  a.boxed-btn {
+    margin-top: 6px;
+    margin-left: 0;
+    display: inline-block;
+    float: none
+  }
+
+  .testimonial .testimonial-title {
+    font-size: 13px
+  }
+
+  .testimonial .testimonial-title small {
+    font-size: 12px
+  }
+
+  .subscribe-area {
+    text-align: center;
+    padding-bottom: 15px;
+    margin-bottom: -27px
+  }
+
+  .subscribe-area-title {
+    float: none;
+    width: 100%;
+    padding: 0;
+    margin-left: -7px
+  }
+
+  .subscribe-area-title h2 {
+    margin-top: 10px;
+    font-size: 15px
+  }
+
+  .subscribe-area-title p {
+    margin-left: 0;
+    font-size: 12px
+  }
+
+  .email-subscribe {
+    margin-top: 15px;
+    margin-left: -13px;
+    margin-right: 0
+  }
+
+  .subscribe-area input[type=email] {
+    width: 50%
+  }
+
+  .subscribe-area .email-subscribe input[type=submit] {
+    padding: 7px 10px
+  }
+
+  .widget-footer .widget-title::after {
+    width: 48%
+  }
+
+  .aboutus-inner .couple-img {
+    width: 170px;
+    height: 170px
+  }
+
+  .the-countdown:before, .count-img:before, .count-img {
+    display: none
+  }
+
+  .blog_sidebar_content .blog_main_post {
+    padding: 10px
+  }
+
+  .blog-sidebar {
+    padding: 10px;
+    margin-top: 40px
+  }
+
+  #blog-list .blog-sidebar .bl-content .sidebar_lists li.widget {
+    padding: 0
+  }
+
+  .bl-content .sidebar_lists li.royalwedding_Instagram ul.flickr {
+    text-align: center
+  }
+
+  .bl-content .sidebar_lists li.royalwedding_Instagram ul.flickr li {
+    width: auto;
+    float: none;
+    display: inline-block
+  }
+
+  .blog-leftsidebar .blog-sidebar {
+    margin-top: 0
+  }
+
+  .blog-leftsidebar .blog_sidebar_content {
+    margin-top: 40px
+  }
+
+  .social_wrapper.shortcode.light.small.blog-social-share {
+    float: left;
+    margin-top: 10px
+  }
+
+  .footer-widgets {
+    background-size: 130%;
+    background-position: 4px 11px
+  }
+
+  .footer-note {
+    /*padding: 120px 0*/
+  }
+
+  .footer-note:before {
+    /*left: 0;*/
+    /*width: 55%;*/
+    /*top: 0;*/
+    /*right: 0;*/
+    /*margin: 0 auto*/
+  }
+
+  .our_store.related_store {
+    padding-bottom: 50px
+  }
+
+  .single-product-summary {
+    margin-top: 30px
+  }
+
+  .single-product-summary button {
+    float: none
+  }
+}
+
+@media only screen and (max-width:767px) {
+	#scrollup {
+		bottom: 80px;
+	}
+	#kenburns_061>.carousel-inner>.item>img, #kenburns_061>.carousel-inner>.item>a>img {
+	max-width: initial !important;
+    width: initial !important;
+  }
+  .kbrns_zoomInOut>.carousel-inner>.item>img, .kbrns_zoomInOut>.carousel-inner>.item>a>img {
+  	transform-origin: 15% 15%;
+  }
+  
+  .wd-slide #kenburns_061 {
+  	max-height: 680px;
+  }
+  
+  .expand-story {
+    padding: 0;
+    margin-right: 0
+  }
+
+  .expand-story p {
+    text-align: center
+  }
+
+  .expand-story p:after {
+    display: none
+  }
+
+  .story-timeline {
+    display: none
+  }
+
+  .story-timeline.story-time-mb {
+    display: block
+  }
+
+  .story-time-mb .story-lt-rt .expand-story {
+    margin-top: 35px;
+    margin-bottom: 0;
+  }
+
+  .story-time-mb .story-lt-rt .image-story {
+    margin: 30px auto 60px
+  }
+
+  .story-timeline .col-xs-6 {
+    width: 100%
+  }
+
+  .story-lt .expand-story .story-head {
+    right: 0;
+    left: 0;
+    text-align: center
+  }
+
+  .story-head:before {
+    display: none
+  }
+
+  .story-rt .expand-story .story-head {
+    left: 0;
+    right: 0;
+    text-align: center
+  }
+
+  .story-rt .expand-story {
+    margin-left: 0
+  }
+  
+  .image-story {
+  	position: relative;
+  }
+  
+  .image-story:after {
+  	content: "";
+    position: absolute;
+    bottom: -70px;
+    left: 50%;
+    transform: translateX(-50%);
+    width: 2px;
+    height: 50px;
+    border-right: 2px dashed #ec2328;
+  }
+  
+  .story-time-mb .col-sm-12:last-child .image-story:after {
+  	content: none;
+  }
+  
+  #menu {
+    display: none
+  }
+
+  .slicknav_menu {
+    display: block
+  }
+
+  .single-slider {
+    height: 100vh
+  }
+
+  .table-cell {
+    padding: 0 10px
+  }
+
+  .top-head-container {
+    display: none
+  }
+
+  .navbar-default .navbar-header a.navbar-brand {
+    top: 5px
+  }
+
+  .navbar>.container .navbar-brand, .navbar>.container-fluid .navbar-brand {
+    margin-left: 25px
+  }
+
+  #main-nav-collapse ul.nav.navbar-nav.navbar-right {
+    margin-right: 0
+  }
+
+  nav.navbar.navbar-default.navbar-fixed-top {
+    padding: 5px 0
+  }
+
+  .navbar-inverse .navbar-collapse, .navbar-inverse .navbar-form {
+    background-color: #fbfbfb
+  }
+
+  .navbar .nav>li.dropdown {
+    overflow: hidden
+  }
+
+  .navbar-default .navbar-nav>li>a {
+    text-align: center;
+    color: #666
+  }
+
+  div#main-nav-collapse {
+    background: #000000e6
+  }
+
+  .navbar-default .navbar-toggle {
+    border-color: #fff;
+    padding: 8px 6px
+  }
+
+  .navbar-default.sticky .navbar-toggle {
+    border-color: #333
+  }
+
+  .navbar-default .navbar-toggle:focus, .navbar-default .navbar-toggle:hover {
+    background: 0 0
+  }
+
+  .navbar-default .navbar-toggle .icon-bar {
+    background-color: #fff
+  }
+
+  .navbar-default.sticky .navbar-toggle .icon-bar {
+    background-color: #333
+  }
+
+  #wd-banner .banner_caption_text {
+    top: 35%
+  }
+
+  #kenburns_061:after {
+    bottom: 25px
+  }
+
+  .slider-title h1 {
+    font-size: 24px
+  }
+
+  .slider-title p {
+    font-size: 12px
+  }
+
+  a.btn.btn-normal {
+    margin-left: 14px;
+    padding: 9px 31px;
+    margin-top: 0
+  }
+
+  .section-title p {
+    font-size: 12px;
+    margin: 15px auto 40px
+  }
+
+  .about-text {
+    margin-top: 28px
+  }
+
+  .about-text p {
+    width: 100%
+  }
+
+  a.boxed-btn {
+    margin-top: 6px;
+    margin-left: 0;
+    display: inline-block;
+    float: none
+  }
+
+  .flat .plan li {
+    padding-left: 140px
+  }
+
+  .blog-post.section-padding {
+    padding-bottom: 20px
+  }
+
+  .subscribe-area {
+    text-align: center;
+    padding-bottom: 15px;
+    margin-bottom: -27px
+  }
+
+  .subscribe-area-title {
+    float: none;
+    width: 100%;
+    padding: 0;
+    margin-left: -7px
+  }
+
+  .subscribe-area-title h2 {
+    margin-top: 10px
+  }
+
+  .email-subscribe {}
+
+  .subscribe-area input[type=email] {
+    width: 24%
+  }
+
+  .subscribe-area .email-subscribe input[type=submit] {
+    padding: 7px 10px
+  }
+
+  .testimonial {
+    padding: 20px 40px 20px 0;
+    margin-bottom: 55px;
+    margin-left: 0
+  }
+
+  .testimonial:after {
+    font-size: 25px;
+    left: 0;
+    top: -6px
+  }
+
+  .testimonial:before {
+    font-size: 25px;
+    right: 5px
+  }
+
+  #our-skill:after {
+    width: 90%
+  }
+
+  .pfc-bg .col-sm-3:before {
+    left: 38%;
+    top: 0
+  }
+
+  .act-counter #demo {
+    font-size: 70px
+  }
+
+  .count-titles {
+    margin: 0;
+    text-align: center
+  }
+
+  #leaves {
+    display: none
+  }
+
+  .expand-story p {
+    padding: 20px;
+    font-size: 16px
+  }
+
+  .image-story {
+    margin: 85px auto 80px;
+    text-align: center;
+  }
+  
+  .image-story img {
+  	width: 100%;
+  }
+
+  .event-img {
+    margin: 0 50px
+  }
+
+  .wedding-event .modal-dialog .modal-content {
+    width: 90%;
+    margin: 0 auto
+  }
+
+  .important-people ul.nav.nav-tabs {
+    width: 55%
+  }
+
+  .the-quote:before, .quote-img:before {
+    display: none
+  }
+
+  .quote-counter {
+    padding: 0;
+    text-align: center
+  }
+
+  .quote-counter p:before {
+    left: 12px;
+    top: 12px
+  }
+
+  .quote-titles {
+    margin-bottom: 0
+  }
+
+  .quote-img, .quote-titles h2 {
+    text-align: center;
+    margin-bottom: 0
+  }
+
+  .quote-img img {
+    position: inherit;
+    left: 0;
+    top: 0
+  }
+
+  .quote-counter p {
+    padding-bottom: 0
+  }
+
+  .quote-counter p {
+    font-size: 24px
+  }
+
+  .quote-counter p:before {
+    left: 7%
+  }
+
+  .owl-registry .item {
+    padding: 25px
+  }
+
+  .ft-about-content {
+    width: 100%;
+  }
+
+  .footer-note h1 {
+    font-size: 40px
+  }
+
+  .blog-fullwidth .blog_sidebar_content {
+    padding: 0
+  }
+  
+  
+}
+
+@media(max-width:639px) {
+	#clock {
+		flex-wrap: wrap;
+	}
+  .important-people ul.nav.nav-tabs {
+    width: 100%;
+    text-align: center
+  }
+
+  .important-people .nav-tabs>li {
+    float: none;
+    display: inline-block
+  }
+
+  .act-counter {
+    padding-top: 50px
+  }
+
+  .owl-registry .item {
+    padding: 0 25px
+  }
+
+  .footer-note {
+    /*padding: 125px 0*/
+  }
+
+  .footer-note h1 {
+    font-size: 30px
+  }
+  
+  .footer-note p {
+  	font-size: 20px;
+    margin: 12px 0;
+  }
+  
+  .footer-copyright p.para {
+  	font-size: 24px;
+  }
+
+  #store-tab-main .nav-tabs>li>a {
+    font-size: 16px
+  }
+
+  .act-counter #demo {
+    font-size: 54px
+  }
+
+  .owl-registry .owl-nav button {
+    top: 20%
+  }
+
+  .footer-note:before {
+  /*  left: 0;*/
+  /*  width: 70%;*/
+    /*top: 25px;*/
+    width: 340px;
+    height: 75%;
+  /*  right: 0;*/
+  /*  margin: 0 auto*/
+  }
+
+  .quantity-buttons {
+    width: 49%;
+    margin: 0 1% 0 0
+  }
+
+  .single-product-summary button {
+    width: 49%
+  }
+
+  .blog-fullwidth .blog_main_post .blog_post_img.static, .blog-fullwidth .blog_main_post .blog_post_content_wrapper {
+    width: 100%
+  }
+  
+  .the-couple {
+    text-align: center;
+    margin-bottom: 40px
+  }
+
+  .couple-img {
+    width: 280px !important;
+    height: 280px !important;
+    margin-bottom: 20px;
+    float: none !important
+  }
+
+  .cp-detail, .expand-story p {
+    box-shadow: 0 5px 15px #e4e4e4
+  }
+  
+  .the-couple,
+  .about-top {
+  	display: block;
+  }
+
+  .about-couple {
+    position: relative;
+    top: 0;
+    width: 100%
+  }
+  
+  .the-couple.bride .about-couple {
+  	margin-left: 0;
+  }
+
+  .about-couple h3 {
+    float: inherit !important;
+    margin-left: 0
+  }
+  .cp-social ul {
+  	float: none;
+  }
+  
+  .cp-detail {
+  	margin-top: 10px;
+  }
+}
+
+@media only screen and (max-width:480px) {
+  .top-head .top-contact, .top-bar-right {
+    text-align: center
+  }
+
+  .social-link-t ul li a {
+    margin-left: 8px
+  }
+
+  div#main-nav-collapse {
+    margin-top: 10px
+  }
+
+  .swiper-container .swiper-button-white {
+    display: none
+  }
+
+  #wd-banner .banner_caption_text {
+    width: 90%;
+    top: 35%
+  }
+
+  #wd-banner .banner_caption_text:before, #wd-banner .banner_caption_text:after {
+    display: none
+  }
+
+  #wd-banner .banner_caption_text, #wd-banner.wd-slider-ot .banner_caption_text {
+    width: 90%
+  }
+
+  .slider-active .owl-dots {
+    left: 43%
+  }
+
+  .test-title-sc {
+    padding: 0
+  }
+
+  .test-title-sc h2 {
+    font-size: 20px
+  }
+
+  .home-2 .carousel-inner .item img, .home-3 .carousel-inner .item img {
+    max-width: initial !important;
+    width: initial !important
+  }
+
+  .layered-b:after, #kenburns_061:after {
+    bottom: -1px
+  }
+
+  .home-3 #kenburns_061:after {
+    bottom: 28px
+  }
+
+  .important-people ul.nav-tabs li a {
+    font-size: 16px
+  }
+
+  .cp-social ul {
+    float: inherit !important;
+    padding: 15px 0;
+    margin-bottom: 0
+  }
+
+  .cp-detail {
+    margin-top: 0;
+    padding: 18px;
+    font-size: 16px;
+  }
+
+  #about-us .col-xs-4 {
+    width: 100%;
+    margin-bottom: 20px
+  }
+
+  .aboutus-inner .about-couple {
+    width: 100%;
+    float: none !important
+  }
+
+  .aboutus-page .the-quote {
+    margin-bottom: 40px
+  }
+
+  .couple-bride .couple-img, .couple-bride .about-couple h3 {
+    float: initial
+  }
+
+  .count-titles h2 {
+    margin-bottom: 10px
+  }
+
+  ul.portfolio li {
+    width: 100%;
+    margin: 4px 0
+  }
+
+  .portfolio-posts .col-xs-6 {
+    width: 100%
+  }
+
+  .pfc-bg .col-sm-3:before {
+    left: 29%
+  }
+
+  #our-team .col-xs-6 {
+    width: 100%
+  }
+
+  .blog-col {
+    max-width: 100%;
+    margin-left: 0
+  }
+
+  .blog-content {
+    bottom: -70%
+  }
+
+  .act-counter {
+    padding: 15px 0 0
+  }
+
+  .act-counter #demo {
+    font-size: 30px;
+    line-height: 1.5
+  }
+
+  
+
+  .important-people ul.nav.nav-tabs {
+    width: 100%
+  }
+
+  .tab-content .col-xs-6, .people-inner .col-xs-6 {
+    width: 100%
+  }
+
+  .quote-counter {
+    padding-left: 20px;
+    text-align: center
+  }
+
+  .quote-titles h2 {
+    text-align: center
+  }
+
+  .quote-counter p {
+    font-size: 20px;
+    padding: 0 10px
+  }
+
+  .quote-counter p:before {
+    left: 0;
+    top: 64px;
+    font-size: 26px
+  }
+
+  .wedding-event .modal-dialog .modal-content {
+    width: 95%
+  }
+
+  ul.gallery li {
+    margin: 10px
+  }
+
+  .portfolio-inner .mix {
+    padding: 8px 0
+  }
+
+  .owl-registry .item {
+    padding: 0 80px
+  }
+
+  /*.widget-rsvp {*/
+  /*  padding: 30px 0*/
+  /*}*/
+
+  .ft-about-content {
+    width: 100%;
+    box-shadow: 0 0 15px #c3c3c3
+  }
+
+  .drop-left .col-xs-4, .drop-right .col-xs-4 {
+    display: none
+  }
+
+  .drop-left .col-xs-8, .wide-gallery .col-xs-4, .drop-right .col-xs-8 {
+    width: 100%
+  }
+
+  .drop-left .col-md-8 {
+    padding-left: 15px
+  }
+
+  .the-wishes .testimony-slide blockquote {
+    width: 100%;
+    padding: 10px 0
+  }
+
+  .our-story-inner .the-wishes {
+    margin-bottom: 40px
+  }
+
+  .owl-registry .owl-nav button {
+    top: 30%
+  }
+
+  .blog_main_post .blog_post_img.static, .blog_main_post .blog_post_content_wrapper {
+    width: 100%
+  }
+
+  .blog_main_post .blog_post_content_wrapper {
+    padding-left: 0;
+    padding-top: 10px
+  }
+
+  .bl-content .sidebar_lists li.royalwedding_Instagram ul.flickr li {
+    width: calc(26% - 9px)
+  }
+
+  .blog-gridrightbar .blog_sidebar_content .col-xs-6 {
+    width: 100%
+  }
+
+  .footer-note {
+    /*padding: 95px 0 120px*/
+  }
+
+  .footer-note p {
+    /*font-size: 15px;*/
+    margin: 0
+  }
+
+  .footer-widgets {
+    background-size: 240%;
+    background-position: bottom;
+    /*padding-top: 45px*/
+  }
+
+  #store-tab-main .nav-tabs>li {
+    width: 100%
+  }
+
+  #store-tab-main .nav-tabs>li a {
+    padding-left: 0;
+    margin-bottom: 14px
+  }
+}
+
+@media(max-width:479px) {
+  .quantity-buttons {
+    width: 100%;
+    margin: 0 0 20px
+  }
+
+  .single-product-summary button {
+    width: 100%
+  }
+
+  .screen-reader-text {
+    width: 85%
+  }
+}
+
+@media(max-width:413px) and (min-width:375px) {
+  .footer-note {
+    /*padding: 80px 0 120px*/
+  }
+}
+
+@media(max-width:360px) {
+  .footer-note {
+    /*padding: 72px 0 120px*/
+  }
+}
+
+@media(max-width:359px) {
+  .section-title h2 {
+    font-size: 28px
+  }
+
+  .widget-rsvp .widget-title:after {
+    top: 60px
+  }
+
+  .owl-registry .owl-nav button {
+    top: 7%
+  }
+
+  .footer-note {
+    /*padding: 100px 0 120px;*/
+    height: calc(400/360*100vw);
+  }
+
+  .footer-note:before {
+    width: 100%;
+  }
+  
+  .footer-note h1 {
+    font-size: calc(30/360*100vw);
+}
+
+.footer-note p {
+	font-size: calc(20/360*100vw);
+}
+}
