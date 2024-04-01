@@ -1,4 +1,4 @@
-import '/common/emoji-picker/js/index.js'
+import './index.js'
 $(".textarea-emoji-picker emoji-picker").dataSource = '/common/emoji-picker/js/data.json';
 $(document).ready(function() {
     $(document).on('emoji-click', '.textarea-emoji-picker emoji-picker', function(e){
