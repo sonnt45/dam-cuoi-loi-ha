@@ -1343,7 +1343,7 @@ header#inner-navigation {
     position: absolute;
     top: 0;
     left: 0;
-    background-image: url(../images/corner-1.png);
+    background-image: url(../images/decoration/corner-1.png);
     background-repeat: no-repeat;
     background-size: 100%;
     width: 17%;
@@ -1355,7 +1355,7 @@ header#inner-navigation {
     position: absolute;
     bottom: -20px;
     left: 80%;
-    background-image: url(../images/corner-2.png);
+    background-image: url(../images/decoration/corner-2.png);
     background-repeat: no-repeat;
     background-size: 100%;
     width: 17%;
@@ -2382,7 +2382,7 @@ section#about-us.aboutus {
     top: 23px;
     width: 240px;
     height: 240px;
-    background-image: url(../images/flower-1.png);
+    background-image: url(../images/decoration/flower-1.png);
     background-size: 100%;
     background-repeat: no-repeat;
     transform: rotate(320deg)
@@ -2525,7 +2525,7 @@ section#about-us.aboutus {
     top: -40px;
     width: 270px;
     height: 270px;
-    background-image: url(../images/flower-1.png);
+    background-image: url(../images/decoration/flower-1.png);
     background-size: 100%;
     background-repeat: no-repeat;
     transform: rotate(140deg)
@@ -2815,7 +2815,7 @@ section.section-padding.our-story {
     position: absolute;
     top: -45px;
     right: -6px;
-    background-image: url(../images/flower-1.png);
+    background-image: url(../images/decoration/flower-1.png);
     width: 50%;
     height: 40%;
     background-repeat: no-repeat;
@@ -2829,7 +2829,7 @@ section.section-padding.our-story {
     left: -22px;
     height: 40%;
     width: 45%;
-    background-image: url(../images/flower-2.png);
+    background-image: url(../images/decoration/flower-2.png);
     background-repeat: no-repeat;
     background-size: 100%;
     transform: rotate(0);
@@ -5366,7 +5366,7 @@ ul.insta-info-list {
 
 .footer-note:before {
     content: "";
-    background: url(../images/heart.png);
+    background: url(../images/decoration/heart.png);
     position: absolute;
     top: 50%;
     left: 50%;
